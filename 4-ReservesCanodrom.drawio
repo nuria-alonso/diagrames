@@ -1,0 +1,154 @@
+<mxfile host="app.diagrams.net" modified="2022-03-16T15:55:32.025Z" agent="5.0 (X11)" etag="o953fv5i0DbHUTBIzWlw" version="14.6.13" type="github">
+  <diagram id="QWcHRJpWfeQXFMJefIEu" name="Page-1">
+    <mxGraphModel dx="2757" dy="138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eaU4gPAbgvnITO38szU_-100" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" parent="1" vertex="1">
+          <mxGeometry x="-1061" y="991" width="860" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-101" value="Accions automatitzaades a la web" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="-1086" y="1425" width="215" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AwSX1SjbMn1UK7kxIGxx-265" value="&lt;h1&gt;4. Flux de reserva automatitzat&lt;br&gt;&lt;/h1&gt;&lt;div&gt;Per a usuàries col·laboradores i residències&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-1115" y="870" width="435" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AwSX1SjbMn1UK7kxIGxx-267" target="AwSX1SjbMn1UK7kxIGxx-269" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AwSX1SjbMn1UK7kxIGxx-267" value="Usuària registrada (login)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1031" y="1035" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w95tcmBaP8WB7iffTGnm-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="AwSX1SjbMn1UK7kxIGxx-269" target="eaU4gPAbgvnITO38szU_-113" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AwSX1SjbMn1UK7kxIGxx-269" value="Reserva web" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="-1041" y="1115" width="140" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="AwSX1SjbMn1UK7kxIGxx-270" value="Dades de contacte&#xa;- correu electrònic&#xa;- Nom entitat&#xa;&#xa;Dades de l&#39;activitat&#xa;- Nom de l&#39;activitat&#xa;- Aforament&#xa;- Necessitats tècniques&#xa;&#xa;Criteris de valoració&#xa;" style="text;strokeColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" parent="AwSX1SjbMn1UK7kxIGxx-269" vertex="1">
+          <mxGeometry y="26" width="140" height="174" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eaU4gPAbgvnITO38szU_-8" target="eaU4gPAbgvnITO38szU_-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" parent="1" source="eaU4gPAbgvnITO38szU_-12" target="eaU4gPAbgvnITO38szU_-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w95tcmBaP8WB7iffTGnm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eaU4gPAbgvnITO38szU_-8" target="eaU4gPAbgvnITO38szU_-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-8" value="Activitat gratuïta oberta a la ciutadania?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-835" y="1148" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eaU4gPAbgvnITO38szU_-12" target="eaU4gPAbgvnITO38szU_-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-17" value="&lt;div&gt;Calendari de reserves web&lt;/div&gt;&lt;div&gt;BOOKED&lt;br&gt;&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" parent="1" vertex="1">
+          <mxGeometry x="-374" y="1015" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-19" value="NO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-795" y="1225" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-21" value="Activitat gratuïta tancada adreçada als membres de l&#39;organització" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-835" y="1293" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eaU4gPAbgvnITO38szU_-22" target="eaU4gPAbgvnITO38szU_-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-22" value="SI" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-691" y="1308" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" parent="1" source="eaU4gPAbgvnITO38szU_-21" target="eaU4gPAbgvnITO38szU_-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-410" y="1338" as="sourcePoint" />
+            <mxPoint x="-299" y="1338" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eaU4gPAbgvnITO38szU_-41" target="eaU4gPAbgvnITO38szU_-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w95tcmBaP8WB7iffTGnm-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="eaU4gPAbgvnITO38szU_-41" target="eaU4gPAbgvnITO38szU_-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-41" value="Serveis associats?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-626" y="1148" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w95tcmBaP8WB7iffTGnm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eaU4gPAbgvnITO38szU_-43" target="eaU4gPAbgvnITO38szU_-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-43" value="NO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-481" y="1158" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eaU4gPAbgvnITO38szU_-50" target="eaU4gPAbgvnITO38szU_-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-50" value="Gratuïtat" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-364" y="1163" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.429;exitY=0.989;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="eaU4gPAbgvnITO38szU_-53" target="eaU4gPAbgvnITO38szU_-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w95tcmBaP8WB7iffTGnm-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eaU4gPAbgvnITO38szU_-53" target="eaU4gPAbgvnITO38szU_-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-53" value="Serveis associats?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-534" y="1248" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eaU4gPAbgvnITO38szU_-55" target="eaU4gPAbgvnITO38szU_-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w95tcmBaP8WB7iffTGnm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.155;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eaU4gPAbgvnITO38szU_-56" target="eaU4gPAbgvnITO38szU_-72" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-56" value="SI" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="-521" y="1363" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w95tcmBaP8WB7iffTGnm-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eaU4gPAbgvnITO38szU_-72" target="eaU4gPAbgvnITO38szU_-94" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-72" value="Costos serveis" style="swimlane;gradientColor=#ffffff;swimlaneFillColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="-441" y="1325" width="223" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-81" value="&lt;div align=&quot;left&quot;&gt;Servei de neteja --&amp;gt; 30 /h&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Servei de seguretat --&amp;gt; 30 €/h&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Tècnica en TIC --&amp;gt; 30 €/h&lt;br&gt;Dinamitzadora de sessió --&amp;gt; 30 €/h&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="eaU4gPAbgvnITO38szU_-72" vertex="1">
+          <mxGeometry x="11.5" y="35" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eaU4gPAbgvnITO38szU_-94" target="eaU4gPAbgvnITO38szU_-105" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-94" value="Pressupost de cessió" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+          <mxGeometry x="-164" y="1340" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eaU4gPAbgvnITO38szU_-105" target="eaU4gPAbgvnITO38szU_-107" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-105" value="Validació Oficina" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-189" y="1225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eaU4gPAbgvnITO38szU_-107" target="eaU4gPAbgvnITO38szU_-109" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-107" value="Enviar a sol·licitant" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-189" y="1125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w95tcmBaP8WB7iffTGnm-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eaU4gPAbgvnITO38szU_-109" target="eaU4gPAbgvnITO38szU_-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-109" value="Recepció de justificant" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-189" y="1035" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w95tcmBaP8WB7iffTGnm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eaU4gPAbgvnITO38szU_-113" target="eaU4gPAbgvnITO38szU_-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-113" value="&lt;div&gt;Calendari de reserves web&lt;/div&gt;&lt;div&gt;NOT AVAILABLE&lt;br&gt;&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" parent="1" vertex="1">
+          <mxGeometry x="-825" y="1015" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-12" value="SI" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-691" y="1158" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eaU4gPAbgvnITO38szU_-55" value="NO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-381" y="1258" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
