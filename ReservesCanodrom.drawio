@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T15:55:40.104Z" agent="5.0 (X11)" etag="3BvfJ9XwP_zEqONTda24" version="14.6.13" type="github" pages="4">
-  <diagram id="QWcHRJpWfeQXFMJefIEu" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2022-03-16T15:58:24.079Z" agent="5.0 (X11)" etag="O5v-BodpW0Nz0ljiq45y" version="14.6.13" type="github" pages="4">
+  <diagram id="QWcHRJpWfeQXFMJefIEu" name="Reserva actual">
     <mxGraphModel dx="3098" dy="1171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -50,7 +50,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="LOoXZZUfJefRrEGWDV-e" name="Page-2">
+  <diagram id="LOoXZZUfJefRrEGWDV-e" name="Reserva anònima simple">
     <mxGraphModel dx="2519" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="uofUXYQzO4LnOzvioj2K-0" />
@@ -151,8 +151,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="VDHaXJcDAqJje8gOmXzd" name="Page-3">
-    <mxGraphModel dx="5026" dy="1516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="VDHaXJcDAqJje8gOmXzd" name="Reserva anònima amb facturació">
+    <mxGraphModel dx="3419" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="RX3vy7jLGc1N3xW9OLzM-0" />
         <mxCell id="RX3vy7jLGc1N3xW9OLzM-1" parent="RX3vy7jLGc1N3xW9OLzM-0" />
@@ -436,7 +436,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="_7wBxA-1HUmuX6uEUufq" name="Page-4">
+  <diagram id="_7wBxA-1HUmuX6uEUufq" name="Reserva amb facturació">
     <mxGraphModel dx="3419" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="-mqdgqCIb07kNF8AoMuC-0" />
