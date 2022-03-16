@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T13:57:37.071Z" agent="5.0 (X11)" etag="qekJ_lGwMneURhWG-Vmz" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-16T14:07:04.337Z" agent="5.0 (X11)" etag="mJWkiMK25Dec62mpgrW5" version="14.6.13" type="github">
   <diagram id="QWcHRJpWfeQXFMJefIEu" name="Page-1">
-    <mxGraphModel dx="2177" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5327" dy="2733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,6 +139,38 @@
         </mxCell>
         <mxCell id="AwSX1SjbMn1UK7kxIGxx-83" value="Accions automatitzaades a la web" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-750" y="926" width="215" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AwSX1SjbMn1UK7kxIGxx-265" value="&lt;h1&gt;3. Flux de reserva automatitzat&lt;br&gt;&lt;/h1&gt;&lt;div&gt;Amb usuaries no registrades i tenint en compte els preus públics&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-715" y="1047" width="435" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AwSX1SjbMn1UK7kxIGxx-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.592;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-48" y="1177" as="sourcePoint" />
+            <mxPoint x="-48.039999999999964" y="1308" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AwSX1SjbMn1UK7kxIGxx-267" value="Usuària anònima" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="1137" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AwSX1SjbMn1UK7kxIGxx-268" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="AwSX1SjbMn1UK7kxIGxx-267" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-495" y="1287" as="sourcePoint" />
+            <mxPoint x="-555" y="1217" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-555" y="1162" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AwSX1SjbMn1UK7kxIGxx-269" value="Reserva web" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="-625" y="1217" width="140" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="AwSX1SjbMn1UK7kxIGxx-270" value="Dades de contacte&#xa;- correu electrònic&#xa;- Nom entitat&#xa;- NIF&#xa;&#xa;Dades de l&#39;activitat&#xa;- Nom de l&#39;activitat&#xa;- Aforament&#xa;- Necessitats tècniques&#xa;" style="text;strokeColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" vertex="1" parent="AwSX1SjbMn1UK7kxIGxx-269">
+          <mxGeometry y="26" width="140" height="244" as="geometry" />
+        </mxCell>
+        <mxCell id="AwSX1SjbMn1UK7kxIGxx-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" target="AwSX1SjbMn1UK7kxIGxx-267" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-60" y="1306" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
