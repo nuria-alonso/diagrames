@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T16:09:05.516Z" agent="5.0 (X11)" etag="Z_xruLlG_e_jBiGzNjbU" version="14.6.13" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-16T16:31:03.045Z" agent="5.0 (X11)" etag="Nh1PdtjPYzx0-VUtSYUu" version="14.6.13" type="github" pages="4">
   <diagram id="QWcHRJpWfeQXFMJefIEu" name="Reserva actual">
     <mxGraphModel dx="4544" dy="2050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -420,9 +420,6 @@
         </mxCell>
         <mxCell id="QhoJEeITpFux-9zHju5y-82" value="Recepció de justificant" style="whiteSpace=wrap;html=1;" vertex="1" parent="RX3vy7jLGc1N3xW9OLzM-1">
           <mxGeometry x="-7" y="1983" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QhoJEeITpFux-9zHju5y-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RX3vy7jLGc1N3xW9OLzM-1" source="QhoJEeITpFux-9zHju5y-29" target="QhoJEeITpFux-9zHju5y-34">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QhoJEeITpFux-9zHju5y-84" value="&lt;div&gt;Calendari de reserves web&lt;/div&gt;&lt;div&gt;NOT AVAILABLE&lt;br&gt;&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="RX3vy7jLGc1N3xW9OLzM-1">
           <mxGeometry x="-920" y="1138" width="100" height="100" as="geometry" />
