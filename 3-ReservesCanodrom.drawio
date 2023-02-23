@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T15:53:24.535Z" agent="5.0 (X11; Ubuntu)" etag="Uov-70q2-dvtDM9fo5mZ" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T15:57:06.815Z" agent="5.0 (X11; Ubuntu)" etag="BESK7xB6IY5uARf97P5i" version="20.3.0" type="github">
   <diagram id="QWcHRJpWfeQXFMJefIEu" name="Page-1">
-    <mxGraphModel dx="3100" dy="344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2296" dy="-144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -183,11 +183,17 @@
         <mxCell id="eaU4gPAbgvnITO38szU_-64" value="Serveis associats?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-795" y="1703" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eaU4gPAbgvnITO38szU_-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eaU4gPAbgvnITO38szU_-67" target="eaU4gPAbgvnITO38szU_-72" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="eaU4gPAbgvnITO38szU_-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="eaU4gPAbgvnITO38szU_-67" target="eaU4gPAbgvnITO38szU_-74" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-480" y="1690" />
+              <mxPoint x="-396" y="1690" />
+              <mxPoint x="-396" y="1516" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="eaU4gPAbgvnITO38szU_-67" value="SI" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="-580" y="1713" width="40" height="40" as="geometry" />
+          <mxGeometry x="-500" y="1713" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eaU4gPAbgvnITO38szU_-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eaU4gPAbgvnITO38szU_-72" target="eaU4gPAbgvnITO38szU_-94" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -198,7 +204,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eaU4gPAbgvnITO38szU_-72" value="Costos serveis" style="swimlane;gradientColor=#ffffff;swimlaneFillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-396.5" y="1668" width="223" height="130" as="geometry" />
+          <mxGeometry x="-352" y="1680" width="223" height="130" as="geometry" />
         </mxCell>
         <mxCell id="eaU4gPAbgvnITO38szU_-81" value="&lt;div align=&quot;left&quot;&gt;Servei de neteja --&amp;gt; 30 /h&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Servei de seguretat --&amp;gt; 30 €/h&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Tècnica en TIC --&amp;gt; 30 €/h&lt;br&gt;Dinamitzadora de sessió --&amp;gt; 30 €/h&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="eaU4gPAbgvnITO38szU_-72" vertex="1">
           <mxGeometry x="11.5" y="40" width="200" height="60" as="geometry" />
@@ -279,6 +285,16 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-740" y="1190" as="targetPoint" />
             <mxPoint x="-930" y="1188" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bpcp8K58jUq5xbHY3vmk-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.874;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="eaU4gPAbgvnITO38szU_-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-520" y="1650" as="sourcePoint" />
+            <mxPoint x="-390" y="1480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-520" y="1680" />
+              <mxPoint x="-690" y="1680" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
