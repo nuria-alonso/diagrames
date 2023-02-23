@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T15:53:02.340Z" agent="5.0 (X11; Ubuntu)" etag="GtZHohC_eWSuAyW4RpOY" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T15:53:24.535Z" agent="5.0 (X11; Ubuntu)" etag="Uov-70q2-dvtDM9fo5mZ" version="20.3.0" type="github">
   <diagram id="QWcHRJpWfeQXFMJefIEu" name="Page-1">
     <mxGraphModel dx="3100" dy="344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eaU4gPAbgvnITO38szU_-100" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="eaU4gPAbgvnITO38szU_-100" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=dots;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-995" y="1094" width="1265" height="764" as="geometry" />
         </mxCell>
         <mxCell id="eaU4gPAbgvnITO38szU_-101" value="Accions automatitzaades a la web" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" parent="1" vertex="1">
