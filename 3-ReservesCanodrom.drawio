@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T15:57:06.815Z" agent="5.0 (X11; Ubuntu)" etag="BESK7xB6IY5uARf97P5i" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T16:04:43.389Z" agent="5.0 (X11; Ubuntu)" etag="065djyHYfa9HvUj_tVJE" version="20.3.0" type="github">
   <diagram id="QWcHRJpWfeQXFMJefIEu" name="Page-1">
-    <mxGraphModel dx="2296" dy="-144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1942" dy="-358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -275,9 +275,6 @@
         <mxCell id="eaU4gPAbgvnITO38szU_-109" value="Recepció de justificant" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="23" y="1988" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eaU4gPAbgvnITO38szU_-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eaU4gPAbgvnITO38szU_-32" target="eaU4gPAbgvnITO38szU_-31" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="eaU4gPAbgvnITO38szU_-113" value="&lt;div&gt;Calendari de reserves web&lt;/div&gt;&lt;div&gt;NOT AVAILABLE&lt;br&gt;&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" parent="1" vertex="1">
           <mxGeometry x="-890" y="1143" width="100" height="100" as="geometry" />
         </mxCell>
@@ -296,6 +293,19 @@
               <mxPoint x="-690" y="1680" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Bpcp8K58jUq5xbHY3vmk-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1.008;entryY=0.318;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eaU4gPAbgvnITO38szU_-21" target="eaU4gPAbgvnITO38szU_-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-550" y="1240" as="sourcePoint" />
+            <mxPoint x="-410" y="1430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-570" y="1326" />
+              <mxPoint x="-570" y="1360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bpcp8K58jUq5xbHY3vmk-3" value="NO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="1307" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
