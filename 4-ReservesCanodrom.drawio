@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T15:55:32.025Z" agent="5.0 (X11)" etag="o953fv5i0DbHUTBIzWlw" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T16:14:15.554Z" agent="5.0 (X11; Ubuntu)" etag="uf9wf6lxFoRsk_CHsmsc" version="20.3.0" type="github">
   <diagram id="QWcHRJpWfeQXFMJefIEu" name="Page-1">
-    <mxGraphModel dx="2757" dy="138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2457" dy="-46" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eaU4gPAbgvnITO38szU_-100" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" parent="1" vertex="1">
-          <mxGeometry x="-1061" y="991" width="860" height="490" as="geometry" />
+        <mxCell id="eaU4gPAbgvnITO38szU_-100" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=dots;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1061" y="991" width="860" height="499" as="geometry" />
         </mxCell>
         <mxCell id="eaU4gPAbgvnITO38szU_-101" value="Accions automatitzaades a la web" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-1086" y="1425" width="215" height="40" as="geometry" />
@@ -46,17 +46,20 @@
         <mxCell id="eaU4gPAbgvnITO38szU_-17" value="&lt;div&gt;Calendari de reserves web&lt;/div&gt;&lt;div&gt;BOOKED&lt;br&gt;&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" parent="1" vertex="1">
           <mxGeometry x="-374" y="1015" width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="EmlnBpsOC1QHMiXl8Vq_-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eaU4gPAbgvnITO38szU_-19" target="eaU4gPAbgvnITO38szU_-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eaU4gPAbgvnITO38szU_-19" value="NO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-795" y="1225" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eaU4gPAbgvnITO38szU_-21" value="Activitat gratuïta tancada adreçada als membres de l&#39;organització" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-835" y="1293" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="eaU4gPAbgvnITO38szU_-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eaU4gPAbgvnITO38szU_-22" target="eaU4gPAbgvnITO38szU_-53" edge="1">
+        <mxCell id="EmlnBpsOC1QHMiXl8Vq_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.1;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eaU4gPAbgvnITO38szU_-22" target="eaU4gPAbgvnITO38szU_-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eaU4gPAbgvnITO38szU_-22" value="SI" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-691" y="1308" width="40" height="40" as="geometry" />
+          <mxGeometry x="-680" y="1250" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eaU4gPAbgvnITO38szU_-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" parent="1" source="eaU4gPAbgvnITO38szU_-21" target="eaU4gPAbgvnITO38szU_-22" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -71,7 +74,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eaU4gPAbgvnITO38szU_-41" value="Serveis associats?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-626" y="1148" width="120" height="60" as="geometry" />
+          <mxGeometry x="-610" y="1103" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w95tcmBaP8WB7iffTGnm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eaU4gPAbgvnITO38szU_-43" target="eaU4gPAbgvnITO38szU_-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -85,29 +88,17 @@
         <mxCell id="eaU4gPAbgvnITO38szU_-50" value="Gratuïtat" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-364" y="1163" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eaU4gPAbgvnITO38szU_-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.429;exitY=0.989;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="eaU4gPAbgvnITO38szU_-53" target="eaU4gPAbgvnITO38szU_-56" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="w95tcmBaP8WB7iffTGnm-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eaU4gPAbgvnITO38szU_-53" target="eaU4gPAbgvnITO38szU_-55" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eaU4gPAbgvnITO38szU_-53" value="Serveis associats?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-534" y="1248" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="eaU4gPAbgvnITO38szU_-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eaU4gPAbgvnITO38szU_-55" target="eaU4gPAbgvnITO38szU_-50" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="w95tcmBaP8WB7iffTGnm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.155;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eaU4gPAbgvnITO38szU_-56" target="eaU4gPAbgvnITO38szU_-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eaU4gPAbgvnITO38szU_-56" value="SI" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="-521" y="1363" width="40" height="40" as="geometry" />
+          <mxGeometry x="-521" y="1208" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w95tcmBaP8WB7iffTGnm-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eaU4gPAbgvnITO38szU_-72" target="eaU4gPAbgvnITO38szU_-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eaU4gPAbgvnITO38szU_-72" value="Costos serveis" style="swimlane;gradientColor=#ffffff;swimlaneFillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-441" y="1325" width="223" height="130" as="geometry" />
+          <mxGeometry x="-435.5" y="1250" width="223" height="130" as="geometry" />
         </mxCell>
         <mxCell id="eaU4gPAbgvnITO38szU_-81" value="&lt;div align=&quot;left&quot;&gt;Servei de neteja --&amp;gt; 30 /h&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Servei de seguretat --&amp;gt; 30 €/h&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Tècnica en TIC --&amp;gt; 30 €/h&lt;br&gt;Dinamitzadora de sessió --&amp;gt; 30 €/h&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="eaU4gPAbgvnITO38szU_-72" vertex="1">
           <mxGeometry x="11.5" y="35" width="200" height="60" as="geometry" />
@@ -145,8 +136,26 @@
         <mxCell id="eaU4gPAbgvnITO38szU_-12" value="SI" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-691" y="1158" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eaU4gPAbgvnITO38szU_-55" value="NO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-381" y="1258" width="40" height="40" as="geometry" />
+        <mxCell id="EmlnBpsOC1QHMiXl8Vq_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.188;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EmlnBpsOC1QHMiXl8Vq_-1" target="eaU4gPAbgvnITO38szU_-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EmlnBpsOC1QHMiXl8Vq_-1" value="Cost segons sala" style="swimlane;gradientColor=#ffffff;swimlaneFillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-651" y="1300" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="EmlnBpsOC1QHMiXl8Vq_-2" value="&lt;div align=&quot;left&quot;&gt;Sales de reunions --&amp;gt; 10 €/h&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Aules informàtiques --&amp;gt; 15 €/h&lt;br&gt;&lt;/div&gt;&lt;div&gt;Sales d&#39;actes --&amp;gt; 20 €/h&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 60 € mig dia&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 100 € dia &lt;br&gt;&lt;/div&gt;&lt;div&gt;Terrasses --&amp;gt; 30 € hora&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 90 € mig dia&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 150 € dia&lt;/div&gt;&lt;div&gt;Grades --&amp;gt; 20 €/h&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="EmlnBpsOC1QHMiXl8Vq_-1">
+          <mxGeometry x="10" y="35" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EmlnBpsOC1QHMiXl8Vq_-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eaU4gPAbgvnITO38szU_-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-610" y="1280" as="sourcePoint" />
+            <mxPoint x="-650" y="1410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-775" y="1410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EmlnBpsOC1QHMiXl8Vq_-5" value="NO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-795" y="1380" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
